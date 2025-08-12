@@ -1,5 +1,5 @@
 # Frost — Privacy Policy
-**Last Updated:** August 11, 2025  
+**Last Updated:** August 12, 2025  
 
 ## 1. Introduction  
 Frost ("the Bot") is a Discord bot that provides anti-nuke protection, moderation, and utility features to Discord servers. This Privacy Policy explains what data Frost collects, how it is used, and how it is stored. By using Frost, you agree to this policy.
